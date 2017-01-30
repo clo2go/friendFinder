@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clo2go/friendFinder.git"
+  },
+  "author": "Carlos Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clo2go/friendFinder/issues"
+  },
+  "homepage": "https://github.com/clo2go/friendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "path": "^0.12.7"
+  }
+}
